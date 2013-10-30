@@ -1,0 +1,20 @@
+name: HartzIV
+main: tm.info.felix.HartzIV
+version: 1.0
+# depend: [Vault]
+
+commands:
+   hartz:
+      description: The HartzIV Command
+      usage: /hartz
+      permission: hartziv.hartz
+      permission-message: No permission!
+permissions:
+   hartziv.hartz:
+      default: op
+   hartziv.sign.create:
+      default: op
+   hartziv.all:
+      default: op
+   hartziv.sign.use:
+      default: true
