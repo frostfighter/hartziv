@@ -1,3 +1,11 @@
+/*
+* This is the important source code of the plugin.
+* I tried to include lots of comments to let you know what I did.
+* If you have any question, send me a PM!
+* Thanks for using my plugin!
+*/
+
+
 package tm.info.felix;
 
 import org.bukkit.ChatColor;
