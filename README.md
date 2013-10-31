@@ -8,6 +8,12 @@ Plugin here:
 ======
 http://dev.bukkit.org/bukkit-plugins/hartziv/
 
+
+
+
+Description:
+=======
+
 This plugin lets the players on your server get money by right clicking on a sign.
 
 How it works
