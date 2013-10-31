@@ -49,8 +49,11 @@ Planned features
 ======
 
     Permission: hartziv.sign.use - Allows players to click on a sign default: true
+    
     Set the waiting time in the sign
+    
     Plugin only gives players money if their budget is low
+    
     Maybe Commands 
 
 
