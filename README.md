@@ -6,7 +6,7 @@ A bukkit economy plugin
 
 Plugin here:
 ======
-http://dev.bukkit.org/bukkit-plugins/hartziv/
+http://dev.bukkit.org/bukkit-plugins/hartziv/ or https://www.dropbox.com/s/z0sydi4nf8uiaw7/HartzIV.jar
 
 
 
