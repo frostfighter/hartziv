@@ -1,7 +1,7 @@
 /*
 * This is the important source code of the plugin.
 * I tried to include lots of comments to let you know what I did.
-* If you have any question, send me a PM!
+* If you have any question or a good idea of a thing to include, send me a PM!
 * Thanks for using my plugin!
 */
 
